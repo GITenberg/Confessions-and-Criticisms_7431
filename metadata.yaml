@@ -1,0 +1,29 @@
+_repo: Confessions-and-Criticisms_7431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A preliminary confession -- Novels and agnosticism -- Americanism
+  in fiction -- Literature for children -- The moral aim in fiction -- The maker of
+  many books -- Mr. Mallock's missing science -- Theodore Winthrop's writings -- Emerson
+  as an American -- Modern magic -- American wild animals in art.
+title: Confessions and Criticisms
+url: http://www.gutenberg.org/ebooks/7431
